@@ -6,6 +6,7 @@ Image Search Android Application with Kotlin using Jetpack and and Architecture 
 - MVVM Architecture
 - Navigation Component
 - Retrofit (with Coroutines)
+- Repository Pattern
 - Paging 3
 - Dagger-Hilt
 - View Binding
