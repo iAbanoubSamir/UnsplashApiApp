@@ -1,5 +1,5 @@
 # Image Search Android App using Unsplash API
-Image Search Android Application with Kotlin using Jetpack and Architecture Components.
+Image Search Android Application Built with Kotlin using Jetpack and Architecture Components.
 
 ## Built with:
 - Kotlin
